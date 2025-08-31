@@ -1,0 +1,15 @@
+[1mdiff --git a/hello.c b/hello.c[m
+[1mindex 522b474..189eb05 100644[m
+[1m--- a/hello.c[m
+[1m+++ b/hello.c[m
+[36m@@ -9,7 +9,9 @@[m
+ [m
+  int main(int argc, char **argv) {[m
+ [m
+[31m-    printf("Hello World");[m
+[32m+[m[32m    printf("My name is Max");[m
+[32m+[m[32m    printf("My major is Computer engineering");[m
+[32m+[m[32m    printf("I have a minor in anthropology");[m
+ [m
+     return 0;[m
+ [m
